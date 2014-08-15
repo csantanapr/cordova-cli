@@ -28,7 +28,7 @@
     "cli"
   ],
   "dependencies": {
-    "cordova-lib": "csantanapr/cordova-lib#CB-6481-hooks",
+    "cordova-lib": "csantanapr/cordova-lib#hooks",
     "q": "~0.9",
     "nopt": "~2",
     "underscore":"1.4.4"
