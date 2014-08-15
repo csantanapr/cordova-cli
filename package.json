@@ -28,7 +28,7 @@
     "cli"
   ],
   "dependencies": {
-    "cordova-lib": "git://github.com/csantanapr/cordova-lib.git#hooks",
+    "cordova-lib": "https://github.com/csantanapr/cordova-lib/tree/CB-6481-hooks/cordova-lib",
     "q": "~0.9",
     "nopt": "~2",
     "underscore":"1.4.4"
